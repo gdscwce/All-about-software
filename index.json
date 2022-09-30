@@ -2,8 +2,15 @@
   {
     "id": 1,
     "company": "microsoft",
-    "stipend": "43L",
+    "salary": "43 LPA",
     "reviews": "4.9",
-    "post": "sd",
+    "post": "SDE",
+  },
+  {
+    "id":2,
+    "company": "Adobe",
+    "salary": "60 LPA",
+    "reviews": "5.0",
+    "post": "SDE",
   }
   ]
